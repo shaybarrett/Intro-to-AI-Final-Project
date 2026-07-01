@@ -1,2 +1,2 @@
 # Intro-to-AI-Final-Project
-Final project for my senior Intro to AI project
+A Genetic Algorithm-based path-finding project I developed for my Introduction to AI class during my senior year. It visualizes the paths that form as each generation attempts to reach the goal without being blocked by the obstacles. You can select from 4 different environments, including a randomly generated one, and can control the speed at which the program moves through the generations.
